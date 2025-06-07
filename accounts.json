@@ -1,0 +1,23 @@
+{
+    "backpack_1": {
+        "backpack_api": "",
+        "backpack_secret": "",
+        "backpack_sub-account_api": "",
+        "backpack_sub-account_secret": "",
+        "proxy": "ip:port:login:pass"
+    },
+    "backpack_2": {
+        "backpack_api": "",
+        "backpack_secret": "",
+        "backpack_sub-account_api": "",
+        "backpack_sub-account_secret": "",
+        "proxy": "ip:port:login:pass"
+    },
+    "backpack_3": {
+        "backpack_api": "",
+        "backpack_secret": "",
+        "backpack_sub-account_api": "",
+        "backpack_sub-account_secret": "",
+        "proxy": "ip:port:login:pass"
+    }
+}
